@@ -1,0 +1,7 @@
+6
+a \\wedge b
+(a \\land b)
+(a \\lor T)
+T
+F
+T \\land F

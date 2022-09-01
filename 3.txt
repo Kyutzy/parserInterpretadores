@@ -1,0 +1,7 @@
+6
+abacate
+a + b
+a \\leftrightarrow o
+jjj - ei
+g \\wedge p
+\\neg o

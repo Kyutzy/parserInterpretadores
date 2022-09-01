@@ -1,0 +1,5 @@
+4
+(a \\lor b)
+(T \\\\rightarrow c)
+\\\\rightarrow
+B \\\\rightarrow c
